@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensorTests", "CensorTests\CensorTests.csproj", "{09679635-5119-493B-AD43-88EBE0E5A3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censor", "Censor\Censor.csproj", "{30A2CCAE-14DC-479B-B3ED-0DBB5BFA3F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageInterface", "MessageInterface\MessageInterface.csproj", "{A60E1339-62A0-4ED4-A1FD-6DE610B80AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09679635-5119-493B-AD43-88EBE0E5A3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09679635-5119-493B-AD43-88EBE0E5A3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09679635-5119-493B-AD43-88EBE0E5A3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09679635-5119-493B-AD43-88EBE0E5A3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A2CCAE-14DC-479B-B3ED-0DBB5BFA3F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A2CCAE-14DC-479B-B3ED-0DBB5BFA3F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A2CCAE-14DC-479B-B3ED-0DBB5BFA3F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A2CCAE-14DC-479B-B3ED-0DBB5BFA3F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60E1339-62A0-4ED4-A1FD-6DE610B80AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60E1339-62A0-4ED4-A1FD-6DE610B80AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60E1339-62A0-4ED4-A1FD-6DE610B80AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60E1339-62A0-4ED4-A1FD-6DE610B80AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
